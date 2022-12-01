@@ -6,7 +6,8 @@ int main()
   {
      if(array[])
   }
-
+//Hii nupur, add a dummy variable
+ int dummy;
 
     return 0;
 }
