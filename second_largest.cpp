@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 bool arr3[10]={FALSE};
-int main() {
+int main() { int use_less;
+	    int dummy;
 	int arr1[4]={1,3,5,7};
 	int arr2[4]={3,5,6,7};
 	
